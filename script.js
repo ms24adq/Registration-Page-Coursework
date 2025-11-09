@@ -13,7 +13,7 @@ console.log("JavaScript file linked and running");
             console.log("Form cleared.");
         }
 
-funtion showCloseInfo() {
+function showCloseInfo() {
         alert("This button closes window");
 }
 
