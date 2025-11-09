@@ -157,7 +157,7 @@
                 background-color: #dc2626;
                 color: #ffffff;
         }
-        .max-w-6xl mx-auto text-center {
+        .max-w-6xl.mx-auto.text-center {
                 color: #d1d5db;
                 background-color: #111827;
         }
