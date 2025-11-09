@@ -16,4 +16,6 @@ console.log("JavaScript file linked and running");
 function showCloseInfo() {
         alert("This button closes window");
 }
-
+function showEmailSupport(){
+        alert("Email support clicked");
+}
