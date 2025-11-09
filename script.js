@@ -1,3 +1,4 @@
+console.log("JavaScript file linked and running");
 
         function register() {
             console.log("Registration triggered by non-semantic element.");
@@ -11,4 +12,8 @@
             document.getElementById('reg-status').classList.add('hidden');
             console.log("Form cleared.");
         }
+
+funtion showCloseInfo() {
+        alert("This button closes window");
+}
 
