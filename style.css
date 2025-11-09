@@ -153,7 +153,7 @@
             }
         }
 
-.red-button {
-        background-colour: #dc2626;
-        color: #ffffff;
-}
+        .red-button {
+                background-colour: #dc2626;
+                color: #ffffff;
+        }
