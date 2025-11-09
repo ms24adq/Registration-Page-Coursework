@@ -152,3 +152,8 @@
                 padding: 1rem 0.5rem;
             }
         }
+
+.red-button {
+        background-colour: #dc2626;
+        color: #ffffff;
+}
