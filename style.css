@@ -161,3 +161,10 @@
                 color: #d1d5db;
                 background-color: #111827;
         }
+
+        .reg-status {
+            color: #065f46;            
+            background-color: #d1d5db; 
+            font-weight: bold;
+        }
+
